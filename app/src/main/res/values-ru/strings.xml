@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="screen_2">Экран 2</string>
+    <string name="button_to_screen_3">Переход на экран 3</string>
+    <string name="screen_3">Экран 3</string>
+    <string name="button_to_screen_4">Переход на экран4</string>
+    <string name="screen_4">Экран4</string>
+    <string name="button_to_start">Возврат в начало</string>
+    <string name="screen_1">Экран1</string>
+    <string name="button_to_screen_2">Переход на экран2</string>
+</resources>
